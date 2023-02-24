@@ -1,3 +1,4 @@
+//bu kod irata aracimizin meb robotik ileri seviye cizgi izleyen robot yarismasinda kullanmasi uzerine, pistin belirtilen acilarina ve pistin yapisina ozel olarak yazdigim kod(farkli renkler, u seklindeki duvar, donulen o yuvarlak yerler.)
 int left_motor = 6; // Pin for left motor
 int right_motor = 5; // Pin for right motor
 int left_sensor = A0; // Pin for left sensor
